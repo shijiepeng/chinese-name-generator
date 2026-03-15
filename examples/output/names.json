@@ -1,0 +1,262 @@
+[
+  {
+    "name": "赵浩宇",
+    "surname": "赵",
+    "given_name": "浩宇",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "自信",
+      "appearance": "阳光帅气",
+      "background": "单亲家庭长大，性格独立坚强"
+    }
+  },
+  {
+    "name": "杨子轩",
+    "surname": "杨",
+    "given_name": "子轩",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "开朗",
+      "appearance": "身材高大",
+      "background": "单亲家庭长大，性格独立坚强"
+    }
+  },
+  {
+    "name": "林建",
+    "surname": "林",
+    "given_name": "建",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* *",
+    "profile": {
+      "personality": "沉稳",
+      "appearance": "成熟稳重",
+      "background": "海外留学归来，视野开阔"
+    }
+  },
+  {
+    "name": "陆子轩",
+    "surname": "陆",
+    "given_name": "子轩",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "坚韧",
+      "appearance": "身材高大",
+      "background": "创业家庭背景，有商业头脑"
+    }
+  },
+  {
+    "name": "罗文昊",
+    "surname": "罗",
+    "given_name": "文昊",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "热情",
+      "appearance": "成熟稳重",
+      "background": "家境优渥，从小接受精英教育"
+    }
+  },
+  {
+    "name": "侯旭尧",
+    "surname": "侯",
+    "given_name": "旭尧",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "自信",
+      "appearance": "阳光帅气",
+      "background": "医生家庭，理性冷静"
+    }
+  },
+  {
+    "name": "黎承宇",
+    "surname": "黎",
+    "given_name": "承宇",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "创新",
+      "appearance": "阳光帅气",
+      "background": "家境优渥，从小接受精英教育"
+    }
+  },
+  {
+    "name": "毛瑾瑜",
+    "surname": "毛",
+    "given_name": "瑾瑜",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "果断",
+      "appearance": "阳光帅气",
+      "background": "来自普通工薪家庭，靠自己的努力打拼"
+    }
+  },
+  {
+    "name": "袁文昊",
+    "surname": "袁",
+    "given_name": "文昊",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "专注",
+      "appearance": "眉清目秀",
+      "background": "小城市出身，在大城市奋斗"
+    }
+  },
+  {
+    "name": "彭洋",
+    "surname": "彭",
+    "given_name": "洋",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* *",
+    "profile": {
+      "personality": "豁达",
+      "appearance": "清瘦干练",
+      "background": "医生家庭，理性冷静"
+    }
+  },
+  {
+    "name": "周明辉",
+    "surname": "周",
+    "given_name": "明辉",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "理性",
+      "appearance": "英气逼人",
+      "background": "艺术世家，从小受艺术熏陶"
+    }
+  },
+  {
+    "name": "蔡宇航",
+    "surname": "蔡",
+    "given_name": "宇航",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "专注",
+      "appearance": "气质儒雅",
+      "background": "艺术世家，从小受艺术熏陶"
+    }
+  },
+  {
+    "name": "郑博文",
+    "surname": "郑",
+    "given_name": "博文",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "担当",
+      "appearance": "温文尔雅",
+      "background": "单亲家庭长大，性格独立坚强"
+    }
+  },
+  {
+    "name": "范逸飞",
+    "surname": "范",
+    "given_name": "逸飞",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "担当",
+      "appearance": "五官端正",
+      "background": "小城市出身，在大城市奋斗"
+    }
+  },
+  {
+    "name": "杜天佑",
+    "surname": "杜",
+    "given_name": "天佑",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "正直",
+      "appearance": "成熟稳重",
+      "background": "医生家庭，理性冷静"
+    }
+  },
+  {
+    "name": "唐皓",
+    "surname": "唐",
+    "given_name": "皓",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* *",
+    "profile": {
+      "personality": "专注",
+      "appearance": "身材高大",
+      "background": "艺术世家，从小受艺术熏陶"
+    }
+  },
+  {
+    "name": "吕天佑",
+    "surname": "吕",
+    "given_name": "天佑",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "自信",
+      "appearance": "气质儒雅",
+      "background": "来自普通工薪家庭，靠自己的努力打拼"
+    }
+  },
+  {
+    "name": "唐博文",
+    "surname": "唐",
+    "given_name": "博文",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "务实",
+      "appearance": "清瘦干练",
+      "background": "艺术世家，从小受艺术熏陶"
+    }
+  },
+  {
+    "name": "沈子轩",
+    "surname": "沈",
+    "given_name": "子轩",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "务实",
+      "appearance": "五官端正",
+      "background": "单亲家庭长大，性格独立坚强"
+    }
+  },
+  {
+    "name": "姚远航",
+    "surname": "姚",
+    "given_name": "远航",
+    "gender": "male",
+    "genre": "modern",
+    "pinyin": "* * *",
+    "profile": {
+      "personality": "豁达",
+      "appearance": "温文尔雅",
+      "background": "海外留学归来，视野开阔"
+    }
+  }
+]
